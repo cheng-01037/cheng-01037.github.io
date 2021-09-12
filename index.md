@@ -4,48 +4,50 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi there!
+
+I am a research assistant and PhD student at the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
+
+My research is mainly about cutting-edge techniques for robust and cost-effective cardiac magnetic resonance image computing.
+
+Before joining Imperial College London, I did my M.S. at the [Department of Electrical Engineering and Computer Science, University of Michigan - Ann Arbor](https://eecs.engin.umich.edu/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Medical image computing** Cardiovascular magnetic resonance imaging and post-processing
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[June. 2021]** Our paper about [robust cardiac magnetic resonance image segmentation](https://arxiv.org/abs/2107.01079) accepted to MICCAI 2021.
+- **[Aug. 2020]** Our paper about [self-supervised few-shot medical image segmentation](https://arxiv.org/abs/2007.09886) accepted to ECCV 2020.
 
-## Publications
+## Selected Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Cheng Ouyang**, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, Daniel Rueckert
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  **ECCV 2020**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Paper](https://arxiv.org/abs/2007.09886)] [[Code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)] <
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Cheng Ouyang**, Konstantinos Kamnitsas, Carlo Biffi, Jinming Duan, Daniel Rueckert
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  **MICCAI 2019**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[Paper](https://arxiv.org/abs/1907.02766)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Unsupervised Multi-modal Style Transfer for Cardiac MR Segmentation**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Chen Chen\*, **Cheng Ouyang\***, Giacomo Tarroni, Jo Schlemper, Huaqi Qiu, Wenjia Bai, Daniel Rueckert (*co-first authorship)
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  Winner solution to the **Multi-sequence Cardiac MR Segmentation Challenge** in **MICCAI-STACOM'19** workshop.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[Paper](https://arxiv.org/abs/1908.07344)] 
 
 ## Services
+- Reviewer: Nature Communication, Medical Image Analysis, IEEE Transactions on Medical Imaging (IEEE-TMI), IEEE Journal of Biomedical And Health Informatics (IEEE-JBHI), International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Medical Imaging meets NeurIPS (Med-NeurIPS)
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+
