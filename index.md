@@ -29,7 +29,7 @@ Before joining Imperial College London, I did my M.S. at the [Department of Elec
   <br>
   **ECCV 2020**.
   <br>
-  [[Paper](https://arxiv.org/abs/2007.09886)] [[Code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)] <
+  [[Paper](https://arxiv.org/abs/2007.09886)] [[Code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)] 
 
 - **Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation**
   <br>
@@ -48,6 +48,12 @@ Before joining Imperial College London, I did my M.S. at the [Department of Elec
   [[Paper](https://arxiv.org/abs/1908.07344)] 
 
 ## Services
-- Reviewer: Nature Communication, Medical Image Analysis, IEEE Transactions on Medical Imaging (IEEE-TMI), IEEE Journal of Biomedical And Health Informatics (IEEE-JBHI), International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Medical Imaging meets NeurIPS (Med-NeurIPS)
+- **Reviewer:** 
+  Nature Communication
+  Medical Image Analysis
+  IEEE Transactions on Medical Imaging (IEEE-TMI)
+  IEEE Journal of Biomedical And Health Informatics (IEEE-JBHI)
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  Medical Imaging meets NeurIPS (Med-NeurIPS)
 
 
