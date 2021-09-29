@@ -6,11 +6,9 @@ layout: homepage
 
 Hi there!
 
-I am a research assistant and PhD student at the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
+I am a research assistant and PhD candidate at the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
 
 My research is mainly about cutting-edge techniques for robust and cost-effective cardiac magnetic resonance image computing.
-
-Before joining Imperial College London, I did my M.S. at the [Department of Electrical Engineering and Computer Science, University of Michigan - Ann Arbor](https://eecs.engin.umich.edu/).
 
 ## Research Interests
 
@@ -47,8 +45,9 @@ Before joining Imperial College London, I did my M.S. at the [Department of Elec
   <br>
   [[Paper](https://arxiv.org/abs/1908.07344)] 
 
-## Services
+## Academic Services
 - **Reviewer:** 
+
   Nature Communication
   
   Medical Image Analysis
