@@ -16,10 +16,19 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 
 ## News
 
+- **[Nov. 2021]** Our new preprint about [Causality-inspired Single-source Domain Generalization](https://arxiv.org/abs/2111.12525) online on Arxiv.
 - **[June. 2021]** Our paper about [robust cardiac magnetic resonance image segmentation](https://arxiv.org/abs/2107.01079) accepted to MICCAI 2021.
 - **[Aug. 2020]** Our paper about [self-supervised few-shot medical image segmentation](https://arxiv.org/abs/2007.09886) accepted to ECCV 2020.
 
 ## Selected Publications
+
+- **Causality-inspired Single-source Domain Generalization for Medical Image Segmentation**
+  <br>
+  **Cheng Ouyang**, Chen Chen, Surui Li, Zeju Li, Chen Qin, Wenjia Bai, Daniel Rueckert
+  <br>
+  **Preprint**.
+  <br>
+  [[Paper](https://arxiv.org/abs/2111.12525)] 
 
 - **Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation**
   <br>
