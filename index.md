@@ -16,7 +16,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 
 ## News
 
-- **[Nov. 2021]** Our new preprint about [Single-source domain generalization](https://arxiv.org/abs/2111.12525) online on Arxiv.
+- **[Nov. 2021]** Our new preprint about [single-source domain generalization](https://arxiv.org/abs/2111.12525) online on Arxiv.
 - **[June. 2021]** Our paper about [robust cardiac magnetic resonance image segmentation](https://arxiv.org/abs/2107.01079) accepted to MICCAI 2021.
 - **[Aug. 2020]** Our paper about [self-supervised few-shot medical image segmentation](https://arxiv.org/abs/2007.09886) accepted to ECCV 2020.
 
