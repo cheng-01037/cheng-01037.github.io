@@ -15,7 +15,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 - **Medical image computing** Cardiovascular magnetic resonance imaging and post-processing
 
 ## News
-- **[May. 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center, lead by [Prof. Ronald M. Summers](https://irp.nih.gov/pi/ronald-summers) [Slides](). 
+- **[May. 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center, lead by [Prof. Ronald M. Summers](https://irp.nih.gov/pi/ronald-summers). 
 - **[Nov. 2021]** Our new preprint about [single-source domain generalization](https://arxiv.org/abs/2111.12525) is online on Arxiv.
 - **[Jun. 2021]** Our paper about [robust cardiac magnetic resonance image segmentation](https://arxiv.org/abs/2107.01079) was accepted to MICCAI 2021.
 - **[Aug. 2020]** Our paper about [self-supervised few-shot medical image segmentation](https://arxiv.org/abs/2007.09886) was accepted to ECCV 2020.
