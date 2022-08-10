@@ -15,7 +15,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 - **Medical image computing** Cardiovascular magnetic resonance imaging and post-processing
 
 ## News
-- **[July. 2022]** Our paper about [probability calibration for medical image segmentation]() was accepted to MICCAI-UNSURE 2022 for a long oral presentation. 
+- **[July. 2022]** Our paper about [probability calibration for medical image segmentation](https://arxiv.org/abs/2208.02870) was accepted to MICCAI-UNSURE 2022 for a long oral presentation. 
 - **[June. 2022]** Our paper about [robust medical image segmentation](https://arxiv.org/abs/2206.01737) was accepted to MICCAI 2022. 
 - **[May. 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center, lead by [Prof. Ronald M. Summers](https://irp.nih.gov/pi/ronald-summers). 
 - **[Nov. 2021]** Our new preprint about [single-source domain generalization](https://arxiv.org/abs/2111.12525) is online on Arxiv.
@@ -24,13 +24,13 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 
 ## Selected Publications
 
-- **Improved Post-hoc Probability Calibration for Artifact-corrupted MRI Segmentation**
+- **Improved Post-hoc Probability Calibration for Out-of-domain MRI Segmentation**
   <br>
   **Cheng Ouyang**, Shuo Wang, Chen Chen, Zeju Li, Wenjia Bai, Bernhard Kainz, Daniel Rueckert
   <br>
   **MICCAI-UNSURE 2022**.
   <br>
-  [[Paper]()]
+  [[Paper](https://arxiv.org/abs/2208.02870)]
 
 - **Causality-inspired Single-source Domain Generalization for Medical Image Segmentation**
   <br>
