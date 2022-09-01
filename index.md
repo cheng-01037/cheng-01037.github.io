@@ -91,5 +91,11 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
   
   Medical Imaging meets NeurIPS (Med-NeurIPS)
+  
+ ## Teaching
+  
+  Teaching assistant for Mathematics for Machine Learning (COMP 70015), Autumn 2020
+  
+  Teaching assistant for Computer Vision (COMP 60006), Spring 2021
 
 
