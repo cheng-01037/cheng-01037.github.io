@@ -60,7 +60,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 
 - **Unsupervised Multi-modal Style Transfer for Cardiac MR Segmentation**
   <br>
-  Chen Chen\*, **Cheng Ouyang\***, Giacomo Tarroni, Jo Schlemper, Huaqi Qiu, Wenjia Bai, Daniel Rueckert (*co-first authorship)
+  Chen Chen\*, **Cheng Ouyang\***, Giacomo Tarroni, Jo Schlemper, Huaqi Qiu, Wenjia Bai, Daniel Rueckert (*equal controbution authorship)
   <br>
   Winner solution to the **Multi-sequence Cardiac MR Segmentation Challenge** in **MICCAI-STACOM'19** workshop.
   <br>
