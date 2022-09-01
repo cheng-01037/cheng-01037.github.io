@@ -18,8 +18,9 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 - **[Aug. 2022]** Our paper about [single-source domain generalization](https://arxiv.org/abs/2111.12525) was provisionally accepted for IEEE Transactions on Medical Images (IEEE-TMI).
 - **[Jul. 2022]** Our paper about [probability calibration for medical image segmentation](https://arxiv.org/abs/2208.02870) was accepted to MICCAI-UNSURE 2022 for a long oral presentation. 
 - **[Jun. 2022]** Our paper about [robust medical image segmentation](https://arxiv.org/abs/2206.01737) was accepted to MICCAI 2022. 
-- **[May 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center, lead by [Prof. Ronald M. Summers](https://irp.nih.gov/pi/ronald-summers). 
+- **[May 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center.
 - **[Feb. 2022]** Our extension paper about [self-supervised few-shot medical image segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709261) was accepted for IEEE Transactions on Medical Images (IEEE-TMI).
+- **[Aug. 2021]** Awarded as an outstanding reviewer for ICCV 2021.
 - **[Jun. 2021]** Our paper about [robust cardiac magnetic resonance image segmentation](https://arxiv.org/abs/2107.01079) was accepted to MICCAI 2021.
 - **[Aug. 2020]** Our paper about [self-supervised few-shot medical image segmentation](https://arxiv.org/abs/2007.09886) was accepted to ECCV 2020.
 
@@ -66,6 +67,11 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   [[Paper](https://arxiv.org/abs/1908.07344)] 
 
 ## Academic Services
+
+- **Co-organizer:** 
+
+  Extreme Cardiac MRI Analysis Challenge under Respiratory Motion (CMRxMotion) at MICCAI 2022 [link](http://cmr.miccai.cloud/)
+
 - **Reviewer:** 
 
   The Conference on Computer Vision and Pattern Recognition (CVPR)
