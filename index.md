@@ -92,10 +92,12 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   
   Medical Imaging meets NeurIPS (Med-NeurIPS)
   
- ## Teaching
+## Teaching
   
-  Teaching assistant for Mathematics for Machine Learning (COMP 70015), Autumn 2020
+- **Teaching assistant at the Department of Computing, Imperial College London:** 
+   
+   Mathematics for Machine Learning (COMP 70015), Autumn 2020
   
-  Teaching assistant for Computer Vision (COMP 60006), Spring 2021
+   Computer Vision (COMP 60006), Spring 2021
 
 
