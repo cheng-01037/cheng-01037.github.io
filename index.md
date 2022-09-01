@@ -21,8 +21,8 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 - **[May 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center.
 - **[Feb. 2022]** Our extension paper about [self-supervised few-shot medical image segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709261) was accepted for IEEE Transactions on Medical Images (IEEE-TMI).
 - **[Aug. 2021]** Awarded as an outstanding reviewer for ICCV 2021.
-- **[Jun. 2021]** Our paper about [robust cardiac magnetic resonance image segmentation](https://arxiv.org/abs/2107.01079) was accepted to MICCAI 2021.
-- **[Aug. 2020]** Our paper about [self-supervised few-shot medical image segmentation](https://arxiv.org/abs/2007.09886) was accepted to ECCV 2020.
+- **[Jun. 2021]** Our paper about [robust cardiac magnetic resonance image segmentation](https://arxiv.org/abs/2107.01079) was accepted for MICCAI 2021.
+- **[Aug. 2020]** Our paper about [self-supervised few-shot medical image segmentation](https://arxiv.org/abs/2007.09886) was accepted for ECCV 2020.
 
 ## Selected Publications
 
