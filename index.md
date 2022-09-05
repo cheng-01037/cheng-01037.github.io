@@ -38,7 +38,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   <br>
   **Cheng Ouyang**, Chen Chen, Surui Li, Zeju Li, Chen Qin, Wenjia Bai, Daniel Rueckert
   <br>
-  **Preprint**.
+  **IEEE-TMI 2022** (provisional acceptance).
   <br>
   [[Paper](https://arxiv.org/abs/2111.12525)] [[Code](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization)]
 
@@ -46,7 +46,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   <br>
   **Cheng Ouyang**, Carlo Biffi, Chen Chen, Turkay Kart, Huaqi Qiu, Daniel Rueckert
   <br>
-  **ECCV 2020**.
+  **ECCV 2020 & IEEE-TMI 2022**.
   <br>
   [[Paper](https://arxiv.org/abs/2007.09886)] [[Code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)] 
 
