@@ -15,6 +15,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 - **Medical image computing** Cardiovascular magnetic resonance imaging and post-processing, with a special focus on improving cost-effectiveness and robustness for the algorithms.
 
 ## News
+- **[Sep. 2022]** We won the Fetal Tissue Annotation and Segmentation Challenge [(FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
 - **[Aug. 2022]** Our paper about [single-source domain generalization](https://arxiv.org/abs/2111.12525) was provisionally accepted for IEEE Transactions on Medical Images (IEEE-TMI).
 - **[Jul. 2022]** Our paper about [probability calibration for medical image segmentation](https://arxiv.org/abs/2208.02870) was accepted to MICCAI-UNSURE 2022 for a long oral presentation. 
 - **[Jun. 2022]** Our paper about [robust medical image segmentation](https://arxiv.org/abs/2206.01737) was accepted to MICCAI 2022. 
