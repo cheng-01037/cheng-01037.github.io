@@ -91,7 +91,9 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
   
-  Medical Imaging meets NeurIPS (Med-NeurIPS)
+  Medical Imaging Meets NeurIPS (Med-NeurIPS)
+  
+  ICML Workshop on Interpretable ML in Healthcare 
   
 ## Teaching
   
