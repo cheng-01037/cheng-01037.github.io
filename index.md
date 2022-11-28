@@ -16,7 +16,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
 
 ## News
 - **[Sep. 2022]** We won the Fetal Tissue Annotation and Segmentation Challenge [(FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
-- **[Aug. 2022]** Our paper about [single-source domain generalization](https://arxiv.org/abs/2111.12525) was provisionally accepted for IEEE Transactions on Medical Images (IEEE-TMI).
+- **[Aug. 2022]** Our paper about [single-source domain generalization](https://ieeexplore.ieee.org/document/9961940/) was accepted for IEEE Transactions on Medical Images (IEEE-TMI).
 - **[Jul. 2022]** Our paper about [probability calibration for medical image segmentation](https://arxiv.org/abs/2208.02870) was accepted to MICCAI-UNSURE 2022 for a long oral presentation. 
 - **[Jun. 2022]** Our paper about [robust medical image segmentation](https://arxiv.org/abs/2206.01737) was accepted to MICCAI 2022. 
 - **[May 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center.
@@ -39,9 +39,9 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   <br>
   **Cheng Ouyang**, Chen Chen, Surui Li, Zeju Li, Chen Qin, Wenjia Bai, Daniel Rueckert
   <br>
-  **IEEE-TMI 2022** (provisional acceptance).
+  **IEEE-TMI 2022**.
   <br>
-  [[Paper](https://arxiv.org/abs/2111.12525)] [[Code](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization)]
+  [[Paper](https://ieeexplore.ieee.org/document/9961940/)] [[Code](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization)]
 
 - **Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation**
   <br>
@@ -82,6 +82,8 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   The European Conference on Computer Vision (ECCV)
 
   Nature Communication
+  
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI)
   
   Medical Image Analysis
   
