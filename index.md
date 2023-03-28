@@ -6,13 +6,11 @@ layout: homepage
 
 Hi there!
 
-I am a research assistant and PhD candidate at the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
-
-My research is mainly about cutting-edge techniques for robust and cost-effective cardiac magnetic resonance image computing.
+I am a PhD candidate at the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
 
 ## Research Interests
 
-- **Medical image computing** Cardiovascular magnetic resonance imaging and post-processing, with a special focus on improving cost-effectiveness and robustness for the algorithms.
+- **Medical image computing**: cutting-edge techniques for **robust** and **data-efficient** medical image computing, with a special interest in cardiac magnetic resonance imaging (MRI).
 
 ## News
 - **[Sep. 2022]** We won the Fetal Tissue Annotation and Segmentation Challenge [(FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
@@ -66,6 +64,7 @@ My research is mainly about cutting-edge techniques for robust and cost-effectiv
   Winner solution to the **Multi-sequence Cardiac MR Segmentation Challenge** in **MICCAI-STACOM'19** workshop.
   <br>
   [[Paper](https://arxiv.org/abs/1908.07344)] 
+
 
 ## Academic Services
 
