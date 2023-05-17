@@ -6,11 +6,12 @@ layout: homepage
 
 Hi there!
 
-I am a PhD candidate at the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
+I am a postdoctoral research associate at the [Computational Cardiac Imaging group](https://oreganlab.org/), [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). I am also with the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), where I obtained my PhD degree in Computing Research in May 2023.
 
 ## Research Interests
 
-- **Medical image computing**: cutting-edge techniques for **robust** and **data-efficient** medical image computing, with a special interest in cardiac magnetic resonance imaging (MRI).
+- **Medical image computing**: Pioneering the development of **advanced**, **robust**, and **data-efficient** algorithms for medical image computing, these techniques are specifically crafted for practical implementation in both **clinical settings** and **research-oriented workflows**.
+- **Key words**: Domain Adaptation & Generalization; Uncertainty Estimation; Few-shot Learning; Semantic Image Segmentation; MRI Reconstruction
 
 ## News
 - **[Sep. 2022]** We won the Fetal Tissue Annotation and Segmentation Challenge [(FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
@@ -84,11 +85,15 @@ I am a PhD candidate at the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [D
   
   IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI)
   
+  International Journal of Computer Vision (IJCV)
+  
   Medical Image Analysis
   
   IEEE Transactions on Medical Imaging (IEEE-TMI)
   
   IEEE Journal of Biomedical And Health Informatics (IEEE-JBHI)
+  
+  Medical Physics
   
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
   
