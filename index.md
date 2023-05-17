@@ -8,6 +8,8 @@ Hi there!
 
 I am a postdoctoral research associate at the [Computational Cardiac Imaging group](https://oreganlab.org/), [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). I am also with the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), where I obtained my PhD degree in Computing Research in May 2023.
 
+**Actively pursuing faculty roles in biomedical engineering/electrical engineering/computer science, specifically in digital healthcare/medical image computing. Open to relevant opportunities - please reach out!**
+
 ## Research Interests
 
 - **Medical image computing**: Pioneering the development of **advanced**, **robust**, and **data-efficient** algorithms for medical image computing, these techniques are specifically crafted for practical implementation in both **clinical settings** and **research-oriented workflows**.
