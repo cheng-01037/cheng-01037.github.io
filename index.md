@@ -16,10 +16,11 @@ I am a postdoctoral research associate at the [Computational Cardiac Imaging gro
 - **Key words**: Domain Adaptation & Generalization; Uncertainty Estimation; Few-shot Learning; Semantic Image Segmentation; MRI Reconstruction
 
 ## News
+- **[June. 2023]** Our paper about topology-aware medical image segmentation was accepted for MICCAI 2023.
 - **[Sep. 2022]** We won the Fetal Tissue Annotation and Segmentation Challenge [(FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
 - **[Aug. 2022]** Our paper about [single-source domain generalization](https://ieeexplore.ieee.org/document/9961940/) was accepted for IEEE Transactions on Medical Images (IEEE-TMI).
-- **[Jul. 2022]** Our paper about [probability calibration for medical image segmentation](https://arxiv.org/abs/2208.02870) was accepted to MICCAI-UNSURE 2022 for a long oral presentation. 
-- **[Jun. 2022]** Our paper about [robust medical image segmentation](https://arxiv.org/abs/2206.01737) was accepted to MICCAI 2022. 
+- **[Jul. 2022]** Our paper about [probability calibration for medical image segmentation](https://arxiv.org/abs/2208.02870) was accepted for MICCAI-UNSURE 2022 for a long oral presentation. 
+- **[Jun. 2022]** Our paper about [robust medical image segmentation](https://arxiv.org/abs/2206.01737) was accepted for MICCAI 2022. 
 - **[May 2022]** An invitated talk *Generalizing deep-learning-based medical image segmentation across domains and classes* is given to the Imaging Biomarkers and Computer-Aided Diagnosis Laboratory at NIH Clinical Center.
 - **[Feb. 2022]** Our extension paper about [self-supervised few-shot medical image segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709261) was accepted for IEEE Transactions on Medical Images (IEEE-TMI).
 - **[Aug. 2021]** Awarded as an outstanding reviewer for ICCV 2021.
