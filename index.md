@@ -16,7 +16,7 @@ I am a postdoctoral research associate at the [Computational Cardiac Imaging gro
 - **Key words**: Domain Adaptation & Generalization; Uncertainty Estimation; Few-shot Learning; Semantic Image Segmentation; MRI Reconstruction
 
 ## News
-- **[Aug. 2023]** Awarded the [Dame Julia Higgins Postdoc Collaborative Research Fund](https://www.imperial.ac.uk/postdoc-fellows-development-centre/departments/dame-julia-higgins-postdoc-collaborative-research-fund/)
+- **[Aug. 2023]** Awarded the [Dame Julia Higgins Postdoc Collaborative Research Fund.](https://www.imperial.ac.uk/postdoc-fellows-development-centre/departments/dame-julia-higgins-postdoc-collaborative-research-fund/)
 - **[June. 2023]** Our paper about topology-aware medical image segmentation was accepted for MICCAI 2023.
 - **[Sep. 2022]** We won the Fetal Tissue Annotation and Segmentation Challenge [(FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
 - **[Aug. 2022]** Our paper about [single-source domain generalization](https://ieeexplore.ieee.org/document/9961940/) was accepted for IEEE Transactions on Medical Images (IEEE-TMI).
