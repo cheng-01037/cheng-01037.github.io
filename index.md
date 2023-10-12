@@ -16,10 +16,11 @@ I am a postdoctoral research associate at the [Computational Cardiac Imaging gro
 - **Key words**: Domain Adaptation & Generalization; Uncertainty Estimation; Few-shot Learning; Semantic Image Segmentation; MRI Reconstruction
 
 ## News
+- **[Oct. 2023]** Awarded as a distinguished reviewer for [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 - **[Aug. 2023]** An invitated talk *Generalizable and data-efficient medical image computing* is given to the School of Computer Science, University of Birmingham.
 - **[Aug. 2023]** Awarded the [Dame Julia Higgins Postdoc Collaborative Research Fund.](https://www.imperial.ac.uk/postdoc-fellows-development-centre/departments/dame-julia-higgins-postdoc-collaborative-research-fund/)
-- **[June. 2023]** Our paper about topology-aware medical image segmentation was accepted for MICCAI 2023.
-- **[Sep. 2022]** We won the Fetal Tissue Annotation and Segmentation Challenge [(FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
+- **[June. 2023]** Our paper about [topology-aware medical image segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_7) was accepted for MICCAI 2023.
+- **[Sep. 2022]** We won the [Fetal Tissue Annotation and Segmentation Challenge (FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
 - **[Aug. 2022]** Our paper about [single-source domain generalization](https://ieeexplore.ieee.org/document/9961940/) was accepted for IEEE Transactions on Medical Images (IEEE-TMI).
 - **[Jul. 2022]** Our paper about [probability calibration for medical image segmentation](https://arxiv.org/abs/2208.02870) was accepted for MICCAI-UNSURE 2022 for a long oral presentation. 
 - **[Jun. 2022]** Our paper about [robust medical image segmentation](https://arxiv.org/abs/2206.01737) was accepted for MICCAI 2022. 
