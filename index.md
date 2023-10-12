@@ -79,7 +79,9 @@ I am a postdoctoral research associate at the [Computational Cardiac Imaging gro
 
   Extreme Cardiac MRI Analysis Challenge under Respiratory Motion (CMRxMotion) at MICCAI 2022 [link](http://cmr.miccai.cloud/)
 
-- **Reviewer:** 
+- **Reviewer:**
+
+  Conference on Neural Information Processing Systems (NeurIPS)
 
   The Conference on Computer Vision and Pattern Recognition (CVPR)
 
