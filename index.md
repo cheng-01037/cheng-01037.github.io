@@ -8,7 +8,7 @@ Hi there!
 
 I am a postdoctoral research associate at the [Computational Cardiac Imaging group](https://oreganlab.org/), [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). I am also with the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), where I obtained my Ph.D. degree in Computing Research. 
 
-I am open to supervise PG and senior-year UG students at Imperial College London -- please feel free to drop me an email if you want to do research projects with me!
+I am open to supervise Imperial College PG and senior-year UG students -- please feel free to drop me an email if you want to do research projects (e.g., DoC MSc individual projects) with me!
 
 ## Research Interests
 
