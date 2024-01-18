@@ -6,14 +6,12 @@ layout: homepage
 
 Hi there!
 
-I am a postdoctoral research associate at the [Computational Cardiac Imaging group](https://oreganlab.org/), [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). I am also with the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), where I obtained my Ph.D. degree in Computing Research. 
-
-I am open to supervising Imperial College PG and senior-year UG students -- please feel free to drop me an email if you want to do research projects (e.g., DoC MSc individual projects) with me!
+I am currently a postdoctoral research associate at the [Computational Cardiac Imaging group](https://oreganlab.org/), [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). I am also with the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), where I obtained my Ph.D. degree in Computing Research. 
 
 ## Research Interests
 
-- **Medical image computing**: Pioneering the development of **advanced**, **robust**, and **data-efficient** algorithms for medical image computing, these techniques are specifically crafted for practical implementation in both **clinical settings** and **research-oriented workflows**.
-- **Key words**: Domain Adaptation & Generalization; Uncertainty Estimation; Few-shot Learning; Semantic Image Segmentation; MRI Reconstruction
+- **Medical image computing**: Pioneering the development of **trustworthy**, **robust**, and **data-efficient** algorithms for medical image computing, these techniques are specifically crafted for practical implementation in both **clinical settings** and **research-oriented workflows**.
+- **Key words**: Uncertainty Estimation; Domain generalization; Few-shot Learning; Semantic Image Segmentation; MRI Reconstruction; Cardiac Imaging
 
 ## News
 
@@ -83,6 +81,8 @@ I am open to supervising Imperial College PG and senior-year UG students -- plea
   Extreme Cardiac MRI Analysis Challenge under Respiratory Motion (CMRxMotion) at MICCAI 2022 [link](http://cmr.miccai.cloud/)
 
 - **Reviewer:**
+
+  International Conference on Learning Representations (ICLR)
 
   Conference on Neural Information Processing Systems (NeurIPS)
 
