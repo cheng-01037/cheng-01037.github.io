@@ -6,15 +6,21 @@ layout: homepage
 
 Hi there!
 
-I am currently a postdoctoral research associate at the [Computational Cardiac Imaging group](https://oreganlab.org/), [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). I am also with the [BioMedIA group](https://biomedia.doc.ic.ac.uk/), [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), where I obtained my Ph.D. degree in Computing Research. 
+I am a lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). Previously, I was a postdoctoral researcher at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). Before that, I obtained my PhD at the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/) in April 2023.
 
 ## Research Interests
 
-- **Medical image computing**: Pioneering the development of **trustworthy**, **robust**, and **data-efficient** algorithms for medical image computing, these techniques are specifically crafted for practical implementation in both **clinical settings** and **research-oriented workflows**.
-- **Key words**: Uncertainty Estimation; Domain generalization; Few-shot Learning; Semantic Image Segmentation; MRI Reconstruction; Cardiac Imaging
+- Multimodal machine learning for healthcare data (e.g., image, signal, and language)
+- Domain generalization and uncertainty modeling for trustworthy machine learning in medical image computing
+- Few-/zero-shot learning for data-efficient machine learning in medical image computing
+- Machine learning for medical sciences 
+
+  **Key words**: Uncertainty Estimation; Domain generalization; Few-shot/Zero-shot Learning; Semantic Image Segmentation; MRI Reconstruction; Cardiac Imaging
 
 ## News
 
+- **[Apr. 2024]** Started my lectureship at Department of Engineering Science, [University of Oxford](https://eng.ox.ac.uk/).
+- **[Apr. 2024]** We are calling for participants for the [CMRxRecon2024 Challenge](https://cmrxrecon.github.io/2024/Home.html) and [UNSURE 2024 Workshop](https://unsuremiccai.github.io/) at MICCAI 2024.
 - **[Dec. 2023]** Awarded the Imperial College London [Seeds for Success Fund](https://www.imperial.ac.uk/postdoc-fellows-development-centre/resources/pfdc-funds/seeds-for-success-fund/), for the topic of trustworthy machine learning for MRI reconstruction (project lead, 2024 cohort).
 - **[Nov. 2023]** Our paper about [test-time adaptation for MRI super-resolution](https://drive.google.com/file/d/18tTEhiCETnAJbxvCKJw9D3B2nSbySDc9/view) was accepted for Med-NeurIPS 2023.  
 - **[Oct. 2023]** Awarded as a gold distinguished reviewer for [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
@@ -72,15 +78,22 @@ I am currently a postdoctoral research associate at the [Computational Cardiac I
   Winner solution to the **Multi-sequence Cardiac MR Segmentation Challenge** in **MICCAI-STACOM'19** workshop.
   <br>
   [[Paper](https://arxiv.org/abs/1908.07344)] 
-
+     
 
 ## Academic Services
 
 - **Co-organizer:** 
 
+  Cardiac MRI Reconstruction Challenge (CMRxRecon) at MICCAI 2024 [link](https://cmrxrecon.github.io/2024/Home.html)
+
+  Uncertainty for Safe Utilization of Machine Learning in Medical Imaging Workshop at MICCAI 2024 [link](https://unsuremiccai.github.io/)
+
   Extreme Cardiac MRI Analysis Challenge under Respiratory Motion (CMRxMotion) at MICCAI 2022 [link](http://cmr.miccai.cloud/)
 
+
 - **Reviewer:**
+
+  International Conference on Machine Learning (ICML)
 
   International Conference on Learning Representations (ICLR)
 
@@ -111,6 +124,9 @@ I am currently a postdoctoral research associate at the [Computational Cardiac I
   Medical Imaging Meets NeurIPS (Med-NeurIPS)
   
   ICML Workshop on Interpretable ML in Healthcare 
+
+
+
   
 ## Teaching
   
