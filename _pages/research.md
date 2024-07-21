@@ -9,5 +9,5 @@ permalink: /research/
 under construction
 
 <p align="center"> 
-  <img width="600" src="/images/wordcloud.png" />
+  <img width="800" src="/images/wordcloud.png" />
 </p>
