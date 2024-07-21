@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Cheng Ouyang"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Oxford, UK"
-  employer         : "Department of Engineering Science, University of Oxford"
-  uri              : "https://eng.ox.ac.uk/people/cheng-ouyang/"
+  bio              : "Lecturer in Healthcare Imaging at Department of Engineering Science, University of Oxford"
+  location         : "University of Oxford"
+  employer         : #
+  uri              : #"https://eng.ox.ac.uk/people/cheng-ouyang/"
   email            : # "none@example.org" 
 
   # Academic websites
