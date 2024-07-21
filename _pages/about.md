@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). Previously, I worked as a postdoctoral researcher at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/) from May 2023 to April 2024. Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/) in April 2023.
+I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on data-efficient, robust, and user-friendly machine learning approaches for medical image/signal computing. Prior to joining Oxford, I worked as a postdoctoral researcher on cardiac MRI at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/) from May 2023 to April 2024. Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/) in April 2023.
 
 
 Research Interest
@@ -19,6 +19,7 @@ Medical image computing, Machine Learning, Medical ultrasound, MRI, Cardiac imag
 - Domain generalization and uncertainty modeling for trustworthy machine learning for medical image computing
 - Few-/zero-shot learning for data-efficient machine learning in medical image computing
 - Machine learning for medical scientific discoveries (e.g., cardiovascular sciences) 
+- Applications of the above learning approaches in addressing clinical and medical research challenges. 
 
 We are also part of the [Oxford Biomedical Image Analysis Cluster (BioMedIA)](https://eng.ox.ac.uk/biomedical-image-analysis/).
 
