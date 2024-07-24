@@ -13,7 +13,7 @@ I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science,
 
 Research Interest
 ------
-**Keywords:** Medical image computing, Machine Learning, Robustness, Uncertainty, Human-machine collaboration, Medical ultrasound, MRI
+**Keywords:** Medical image computing, Machine learning, Robustness, Uncertainty, Human-machine collaboration, Medical ultrasound, MRI
 
 My research centres on machine learning and computer vision approaches for medical data interpretation and analysis. Topics of our research include but are not limited to the following: 
 
@@ -28,7 +28,7 @@ We are also part of the [Oxford Biomedical Image Analysis Cluster (BioMedIA)](ht
 
 Opening
 ------
-We are looking for highly motivated PhD students to work on machine learning for medical image/data computing. Please check the [Vacancies page](https://cheng-01037.github.io/vacancies/) for more details.
+We are looking for highly motivated students to work on machine learning for medical image/data computing. Please check the [Vacancies page](https://cheng-01037.github.io/vacancies/) for more details.
 
 News
 ------
