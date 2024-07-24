@@ -13,7 +13,7 @@ I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science,
 
 Research Interest
 ------
-**Keywords:** Medical image computing, Machine Learning, Medical ultrasound, MRI, Robustness, Uncertainty, Human-machine collaboration.
+**Keywords:** Medical image computing, Machine Learning, Robustness, Uncertainty, Human-machine collaboration, Medical ultrasound, MRI
 
 My research centres on machine learning and computer vision approaches for medical data interpretation and analysis. We aim at 1. streamlining clinical workflows and improving patient outcomes with easy-to-deploy, robust, and trustworthy machine learning approaches; 2. enhancing human-machine collaborations in clinical settings through both novel algorithms and user studies; 3. accelerating medical science research, especially those involving imaging phenotypes, with machine learning approaches. Topics of our research include but are not limited to the following: 
 
