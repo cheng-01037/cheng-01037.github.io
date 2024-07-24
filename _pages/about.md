@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on data-efficient, robust, and user-friendly machine learning approaches for medical image/signal computing. Prior to joining Oxford, I worked as a postdoctoral researcher on cardiac MRI at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/) from May 2023 to April 2024. Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/) in April 2023.
+I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on data-efficient, robust, and user-friendly machine learning approaches for medical image/signal computing. Prior to joining Oxford, I worked as a postdoctoral researcher on machine learning for cardiovascular science at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/) from May 2023 to April 2024. Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/) in April 2023.
 
 
 Research Interest
 ------
-Medical image computing, Machine Learning, Medical ultrasound, MRI, Cardiac imaging
+**Keywords:** Medical image computing, Machine Learning, Medical ultrasound, MRI, Robustness, Uncertainty, Human-machine collaboration.
+
+My research centres on machine learning and computer vision approaches for medical data interpretation and analysis. We aim at 1. streamlining clinical workflows and improving patient outcomes with easy-to-deploy, robust, and trustworthy machine learning approaches; 2. enhancing human-machine collaborations in clinical settings through both novel algorithms and user studies; 3. accelerating medical science research, especially those involving imaging phenotypes, with machine learning approaches. Topics of our research include but are not limited to the following: 
 
 - Multimodal machine learning for healthcare data (e.g., image, signal, and language)
-- Domain generalization and uncertainty modeling for trustworthy machine learning for medical image computing
-- Few-/zero-shot learning for data-efficient machine learning in medical image computing
-- Machine learning for medical scientific discoveries (e.g., cardiovascular sciences) 
+- Domain generalization and uncertainty modeling for easy-to-deploy and trustworthy machine learning
+- Few-/zero-shot learning for improving data efficiency on long-tailed medical data
+- Machine learning for medical scientific discoveries (e.g., cardiovascular science) 
 - Applications of the above learning approaches in addressing clinical and medical research challenges. 
 
 We are also part of the [Oxford Biomedical Image Analysis Cluster (BioMedIA)](https://eng.ox.ac.uk/biomedical-image-analysis/).
-
 
 
 Opening
@@ -32,7 +33,7 @@ We are looking for highly motivated PhD students to work on machine learning for
 News
 ------
 \[June 2024\] Our papers on [topology correction for medical image segmentation]() and on [foundation model for brain MRI segmentation](https://arxiv.org/abs/2405.10246) were accepted for MICCAI 2024. Congrats to Liu and Xinru!\
-\[May. 2024\] Our paper on [zero-shot ECG classification](https://arxiv.org/abs/2403.06659) was accepted for ICML 2024; paper on [federated LDCT denoising](https://openreview.net/forum?id=Zg0mfl10o2) was accepted for MIDL 2024. Congrats to Che, Xuhang!\
+\[May. 2024\] Our paper on [zero-shot ECG classification](https://arxiv.org/abs/2403.06659) was accepted for ICML 2024; paper on [federated LDCT denoising](https://openreview.net/forum?id=Zg0mfl10o2) was accepted for MIDL 2024. Congrats to Che and Xuhang!\
 \[Apr. 2024\] Started my lectureship at Department of Engineering Science, [University of Oxford](https://eng.ox.ac.uk/).\
 \[Apr. 2024\] We are **calling for participants** for the [CMRxRecon2024 Challenge](https://cmrxrecon.github.io/2024/Home.html) and [UNSURE 2024 Workshop](https://unsuremiccai.github.io/) at MICCAI 2024.\
 \[Dec. 2023\] Awarded the Imperial College London [Seeds for Success Fund](https://www.imperial.ac.uk/postdoc-fellows-development-centre/resources/pfdc-funds/seeds-for-success-fund/), for the topic of trustworthy machine learning for MRI reconstruction (project lead, 2024 cohort).\
@@ -46,6 +47,6 @@ News
 
 Contact
 ------
-Email: <my_firstname> dot <my_lastname> at eng dot ox dot ac dot uk \
+Email: \<my_firstname\> dot \<my_lastname\> at eng dot ox dot ac dot uk \
 Address: Old Road Campus, Roosevelt Dr, Headington, Oxford OX3 7DQ
 
