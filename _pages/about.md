@@ -21,7 +21,7 @@ My research centres on machine learning and computer vision approaches for medic
 - Domain generalization and uncertainty modeling for easy-to-deploy and trustworthy machine learning
 - Few-/zero-shot learning for improving data efficiency on long-tailed medical data
 - Machine learning for medical scientific discoveries (e.g., cardiovascular science) 
-- Applications of the above learning approaches in addressing clinical and medical research challenges. 
+- Applications of the above learning approaches in addressing clinical and medical research challenges
 
 We are also part of the [Oxford Biomedical Image Analysis Cluster (BioMedIA)](https://eng.ox.ac.uk/biomedical-image-analysis/).
 
