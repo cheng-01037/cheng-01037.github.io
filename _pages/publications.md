@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-For a full list of our publications, please refer to my [Google Scholar profile](https://scholar.google.co.uk/citations?user=Ss_HBpcAAAAJ&hl=en).
+For a full list of publications, please refer to my [Google Scholar profile](https://scholar.google.co.uk/citations?user=Ss_HBpcAAAAJ&hl=en).
 
 Selected Publications
 ------
