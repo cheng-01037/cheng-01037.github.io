@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on data-efficient, robust, and user-friendly machine learning approaches for medical image/signal computing. Prior to joining Oxford, I worked as a postdoctoral researcher on machine learning for cardiovascular science at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/) from May 2023 to April 2024. Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/) in April 2023.
+I am a Lecturer in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on data-efficient, robust, and user-friendly machine learning approaches for medical image/signal computing. Prior to joining Oxford, I worked as a postdoctoral researcher on machine learning for cardiovascular science at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/) from May 2023 to April 2024. Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/).
 
 
 Research Interest
@@ -32,7 +32,7 @@ We are looking for highly motivated students to work on machine learning for med
 
 News
 ------
-\[June 2024\] Our papers on [topology correction for medical image segmentation]() and on [foundation model for brain MRI segmentation](https://arxiv.org/abs/2405.10246) were accepted for MICCAI 2024. Congrats to Liu and Xinru!\
+\[Jun. 2024\] Our papers on [topology correction for medical image segmentation]() and on [foundation model for brain MRI segmentation](https://arxiv.org/abs/2405.10246) were accepted for MICCAI 2024. Congrats to Liu and Xinru!\
 \[May. 2024\] Our paper on [zero-shot ECG classification](https://arxiv.org/abs/2403.06659) was accepted for ICML 2024; paper on [federated LDCT denoising](https://openreview.net/forum?id=Zg0mfl10o2) was accepted for MIDL 2024. Congrats to Che and Xuhang!\
 \[Apr. 2024\] Started my lectureship at Department of Engineering Science, [University of Oxford](https://eng.ox.ac.uk/).\
 \[Apr. 2024\] We are **calling for participants** for the [CMRxRecon2024 Challenge](https://cmrxrecon.github.io/2024/Home.html) and [UNSURE 2024 Workshop](https://unsuremiccai.github.io/) at MICCAI 2024.\
