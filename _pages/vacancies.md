@@ -12,10 +12,10 @@ We are looking for self-motivated PhD students in medical image computing at Dep
 Candidates are expected to have a strong background in a subject relevant to computer science, electrical engineering, biomedical engineering, mathematics, or a closely related discipline, and have experience, including a proven publication track-record, in one or more of the following areas: computer vision, machine learning and/or medical imaging.
 
 You should also have:
-- A genuie passion in solving real-world healthcare challenges using computational tools.
-- Sufficient communication and academic writing skills, demonstrated through a publication track record and/or presentations at scientific events
-- Strong analytical, problem-solving, organizational, and interpersonal skills
-- A good (1st or 2.1) undergraduate degree in a relevant discipline.
+- A passion in solving real-world healthcare challenges using computational tools.
+- Sufficient communication and academic writing skills, demonstrated through a publication track record and/or presentations at scientific events.
+- Strong analytical, problem-solving, organizational, and interpersonal skills.
+- A good (1st or 2.1) undergraduate degree or equivalent in a relevant discipline.
 
 Feel free to get in touch if you are interested!
 
