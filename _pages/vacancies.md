@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-We are looking for self-motivated PhD students in medical image computing at Department of Engineering Science, University of Oxford. 
+We are seeking highly self-motivated students to pursue a PhD in medical image computing at the Department of Engineering Science, University of Oxford. 
 
-Candidates are expected to have a strong background in a subject relevant to computer science, electrical engineering, biomedical engineering, mathematics, or a closely related discipline, and have experience, including a proven publication track-record, in one or more of the following areas: computer vision, machine learning and/or medical imaging.
+Candidates are expected to have a strong background in a relevant STEM discipline, and have experience, including a proven publication track-record, in one or more of the following areas: computer vision, machine learning and/or medical imaging.
 
 You should also have:
 - A passion in solving real-world healthcare challenges using computational tools.
 - Sufficient communication and academic writing skills, demonstrated through a publication track record and/or presentations at scientific events.
 - Strong analytical, problem-solving, organizational, and interpersonal skills.
-- A good (1st or 2.1) undergraduate degree or equivalent in a relevant discipline.
+- A good (1st or strong upper 2nd with honors) undergraduate degree or equivalent in a relevant STEM discipline.
 
 Feel free to get in touch if you are interested!
 
@@ -23,7 +23,7 @@ Related PhD Programs
 ------
 We normally recruit PhD (termed as *DPhil*) students from the following three programs:
 
-- [DPhil in Engineering Science Program](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science)
+- [DPhil in Engineering Science Program](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) (The "standard" engineering PhD program.)
 
 - [EPSRC HDS Centre for Doctoral Training Program](https://www.bdi.ox.ac.uk/study/cdt)
 
