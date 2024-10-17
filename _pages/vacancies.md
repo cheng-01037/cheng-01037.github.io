@@ -20,7 +20,7 @@ You should also have:
 Potential PhD topics include but are not limited to the following: 
 
 - Fundamental approaches for improving the robustness, trustworthiness, and user-friendliness of machine learning models for medical image/multimodal data computing.
-- Medical image/multimodal data computing approaches for improving the overall efficiency and patient outcomes in clinical environments with various levels of resource and expertise. 
+- Medical image/multimodal data computing approaches for improving the overall efficiency and patient outcomes in dynamic clinical environments, especially in those with limited resources and expertise.
 - Medical image/multimodal data computing approaches for supporting healthcare research, with a particular focus on cardiology research.
 
 The students will join a multi-disciplinary research group of approximately 20 PhD students and postdocs focused on diverse topics in medical image/multimodal data computing. The group is primarily led by Prof. Alison Noble and co-led by Dr. Cheng Ouyang and is based at the Institute of Biomedical Engineering, Department of Engineering Science. The students will also have the opportunitiy to collaborate with world-leading scientists and clinicians at Oxford, Imperial College London, and beyond. 
