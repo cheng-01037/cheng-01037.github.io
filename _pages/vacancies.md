@@ -9,6 +9,8 @@ author_profile: true
 
 We are seeking highly self-motivated students to pursue a PhD in medical image/multimodal data computing at the Department of Engineering Science, University of Oxford. 
 
+*Please note that as the deadline to application gets closer, due to the amount of emails, I may not have the capacity to reply to everyone / to reply immediately. Sorry about the inconvenience.*
+
 Candidates are expected to have a strong background in a relevant STEM discipline, and have experience, including a proven publication track-record, in one or more of the following areas: computer vision, machine learning and/or medical imaging.
 
 You should also have:
@@ -26,6 +28,7 @@ Potential PhD topics include but are not limited to the following:
 The students will join a multi-disciplinary research group of approximately 20 PhD students and postdocs focused on diverse topics in medical image/multimodal data computing. The group is primarily led by Prof. Alison Noble and co-led by Dr. Cheng Ouyang and is based at the Institute of Biomedical Engineering, Department of Engineering Science. The students will also have the opportunitiy to collaborate with world-leading scientists and clinicians at Oxford, Imperial College London, and beyond. 
 
 Feel free to get in touch if you are interested!
+
 
 Related PhD Programs
 ------
