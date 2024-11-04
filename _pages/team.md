@@ -13,7 +13,7 @@ PhD Students
 ------
 University of Oxford
 
-- Owen Pullen (HDS CDT in rotation) 
+- Owen Pullen (HDS CDT rotation project) 
 
 Imperial College London
 
@@ -30,7 +30,7 @@ Imperial College London
 
 - Xuhang Chen (Co-supervised with Dr. Chen Qin, now PhD student at Cambridge)
 
-- Kaijie Xu (Co-supervised with Dr. Chen Qin, now incoming PhD student at McGill)
+- Kaijie Xu (Co-supervised with Dr. Chen Qin, now PhD student at McGill)
 
 - Zikun Xu (Co-supervised with Dr. Chen Qin)
 
