@@ -9,11 +9,18 @@ author_profile: true
 
 I have been fortunate to work with a group of amazing students:
 
+Postdoctoral researchers
+---
+University of Oxford
+
+- Dr. Yuyuan Liu (Co-supervised with Prof. Alison Noble)
+
+
 PhD Students
 ------
 University of Oxford
 
-- Owen Pullen (HDS CDT rotation project) 
+- Owen Pullen (HDS CDT rotation project, now DPhil student at VGG Group) 
 
 Imperial College London
 
@@ -33,6 +40,14 @@ Imperial College London
 - Kaijie Xu (Co-supervised with Dr. Chen Qin, now PhD student at McGill)
 
 - Zikun Xu (Co-supervised with Dr. Chen Qin)
+
+Visiting Students
+---
+
+Jiazhen Pan (Technical University of Munich)
+
+Jason Cui (City University of Hong Kong, co-supervised with Prof. Alison Noble)
+
 
 <br />
 
