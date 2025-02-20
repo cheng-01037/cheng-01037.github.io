@@ -32,8 +32,8 @@ We are looking for highly motivated students to work on machine learning for med
 
 News
 ------
-\[Feb. 2025\] Serving as an Area Chair for MICCAI 2025.
-\[Dec. 2024\] Awarded among [Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee) for NeurIPS 2024. 
+\[Feb. 2025\] Serving as an Area Chair for MICCAI 2025.\
+\[Dec. 2024\] Awarded among [Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee) for NeurIPS 2024. \
 \[Sep. 2024\] Our papers on [multi-modal self-supervised learning for fine-grained medical vision tasks](https://arxiv.org/html/2312.01522v1) and on [robust and generalizable diffusion models for inverse problems](https://arxiv.org/pdf/2406.13652) were accepted for NeurIPS 2024. Congrats to Che and Weitong!\
 \[Jun. 2024\] Our papers on [topology correction for medical image segmentation]() and on [foundation model for brain MRI segmentation](https://arxiv.org/abs/2405.10246) were accepted for MICCAI 2024. Congrats to Liu and Xinru!\
 \[May. 2024\] Our paper on [zero-shot ECG classification](https://arxiv.org/abs/2403.06659) was accepted for ICML 2024; paper on [federated LDCT denoising](https://openreview.net/forum?id=Zg0mfl10o2) was accepted for MIDL 2024. Congrats to Che and Xuhang!\
