@@ -17,9 +17,9 @@ Postdoctoral Researchers
 Visiting Students
 ---
 
-Jiazhen Pan (Technical University of Munich)
+- Jiazhen Pan (Technical University of Munich)
 
-Jason Cui (City University of Hong Kong, co-supervised with Prof. Alison Noble)
+- Jason Cui (City University of Hong Kong, co-supervised with Prof. Alison Noble)
 
 
 Alumni
