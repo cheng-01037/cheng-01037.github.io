@@ -33,7 +33,7 @@ We are looking for highly motivated students to work on machine learning for med
 News
 ------
 \[Apr. 2025\] We warmly invite you to join the [1st MICCAI Workshop on Human-AI Collaboration](https://haic-miccai.github.io/) for MICCAI 2025.\
-\[Mar. 2025\] We released [MedVLM-R1](https://huggingface.co/JZPeterPan/MedVLM-R1), a novel medical vision language model (VLM) that is incentivized to articulate its reasoning grounds before making predictions. Congrats to Jiazhen, Che, and all the coauthors!\
+\[Mar. 2025\] We released [MedVLM-R1](https://huggingface.co/JZPeterPan/MedVLM-R1), the first medical vision language model (VLM) that is incentivized to articulate its reasoning grounds before making predictions with GRPO. Early accepted for MICCAI 2025. Congrats to Jiazhen, Che, and all the coauthors!\
 \[Feb. 2025\] Serving as an Area Chair for MICCAI 2025.\
 \[Dec. 2024\] Awarded among [Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee) for NeurIPS 2024. \
 \[Sep. 2024\] Our papers on [multi-modal self-supervised learning for fine-grained medical vision tasks](https://arxiv.org/html/2312.01522v1) and on [robust and generalizable diffusion models for inverse problems](https://arxiv.org/pdf/2406.13652) were accepted for NeurIPS 2024. Congrats to Che and Weitong!\
