@@ -32,7 +32,7 @@ We are looking for highly motivated students to work on machine learning for med
 
 News
 ------
-\[Apr. 2025\] We warmly invite you to join the [1st MICCAI Workshop on Human-AI Collaboration](https://haic-miccai.github.io/) for MICCAI 2025.\
+\[Apr. 2025\] We warmly invite you to join the following MICCAI satellite events: [1st MICCAI Workshop on Human-AI Collaboration](https://haic-miccai.github.io/), [MICCAI Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging](https://unsuremiccai.github.io/) and [MICCAI Cardiac MRI Reconstruction Challenge 2025 (CMRxRecon2025)](https://cmrxrecon.github.io/2025/Home.html). \
 \[Mar. 2025\] We released [MedVLM-R1](https://huggingface.co/JZPeterPan/MedVLM-R1), the first medical vision language model (VLM) that is incentivized to articulate its reasoning grounds before making predictions with GRPO. Early accepted for MICCAI 2025. Congrats to Jiazhen, Che, and all the coauthors!\
 \[Feb. 2025\] Serving as an Area Chair for MICCAI 2025.\
 \[Dec. 2024\] Awarded among [Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee) for NeurIPS 2024. \
