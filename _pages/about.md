@@ -47,7 +47,7 @@ News
 \[Oct. 2023\] Awarded as a gold distinguished reviewer for [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).\
 \[Aug. 2023\] An invitated talk *Generalizable and data-efficient medical image computing* is given to the School of Computer Science, University of Birmingham.\
 \[Aug. 2023\] Awarded the [Dame Julia Higgins Postdoc Collaborative Research Fund.](https://www.imperial.ac.uk/postdoc-fellows-development-centre/departments/dame-julia-higgins-postdoc-collaborative-research-fund/)\
-\[June. 2023\] Our paper about [topology-aware medical image segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_7) was accepted for MICCAI 2023. Congrats to Liu.\
+\[Jun. 2023\] Our paper about [topology-aware medical image segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_7) was accepted for MICCAI 2023. Congrats to Liu.\
 \[Sep. 2022\] We won the [Fetal Tissue Annotation and Segmentation Challenge (FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
 
 
