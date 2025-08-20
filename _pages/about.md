@@ -32,7 +32,9 @@ We are looking for highly motivated students to work on machine learning for med
 
 News
 ------
-\[Jun. 2025\] Our work on test-time adaptation for addressing concept shifts in medical image segmentation has been accepted for ICCV 2025. Congrats to Jiayuan and all coauthors! \
+\[Aug. 2025\] Our work on [knowledge-enhanced multi-modal learning](https://arxiv.org/abs/2502.17900) has been accepted for EMNLP. Congratulations to Che! \
+\[Jul. 2025\] Check out our new work on [Multi-agent dynamic trustworthiness assessment for medical LLMs](https://arxiv.org/abs/2508.00923)! \
+\[Jun. 2025\] Our work on [test-time adaptation for addressing concept shifts in medical image segmentation](https://arxiv.org/abs/2411.15513) has been accepted for ICCV 2025. Congrats to Jiayuan and all coauthors! \
 \[Apr. 2025\] We warmly invite you to join the following **MICCAI satellite events**: [1st MICCAI Workshop on Human-AI Collaboration](https://haic-miccai.github.io/), [MICCAI Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging](https://unsuremiccai.github.io/) and [MICCAI Cardiac MRI Reconstruction Challenge 2025 (CMRxRecon2025)](https://cmrxrecon.github.io/2025/Home.html). \
 \[Mar. 2025\] We released [MedVLM-R1](https://huggingface.co/JZPeterPan/MedVLM-R1), the first medical vision language model (VLM) that is incentivized to articulate its reasoning grounds without relying on human supervisions. Early accepted for MICCAI 2025. Congrats to Jiazhen, Che, and all the coauthors!\
 \[Feb. 2025\] Serving as an Area Chair for MICCAI 2025.\
