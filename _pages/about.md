@@ -18,9 +18,8 @@ Research Interest
 My research centres on machine learning and computer vision approaches for medical data interpretation and analysis. Topics of our research include but are not limited to the following: 
 
 - Multimodal machine learning for healthcare data (e.g., image, signal, and language)
-- Domain generalization and uncertainty modeling for easy-to-deploy and trustworthy machine learning
-- Few-/zero-shot learning for improving data efficiency on long-tailed medical data
-- Machine learning for medical scientific discoveries (e.g., cardiovascular science) 
+- Machine learning for clinical skill understanding and enhancement
+- Trustworthiness assessment and enhancement for medical machine learning models
 - Applications of the above learning approaches in addressing clinical and medical research challenges
 
 We are also part of the [Oxford Biomedical Image Analysis Cluster (BioMedIA)](https://eng.ox.ac.uk/biomedical-image-analysis/).
