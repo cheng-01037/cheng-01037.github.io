@@ -31,6 +31,7 @@ We are looking for highly motivated students to work on machine learning for med
 
 News
 ------
+\[Sep. 2025\] Check out our new work on [automating federated learning for medical imaging with server-client agentic workflows](https://www.arxiv.org/abs/2509.23803) ! \
 \[Aug. 2025\] Our work on [knowledge-enhanced multi-modal learning](https://arxiv.org/abs/2502.17900) has been accepted for EMNLP. Congratulations to Che! \
 \[Jul. 2025\] Check out our new work on [multi-agent driven dynamic trustworthiness assessment for medical LLMs](https://arxiv.org/abs/2508.00923)! \
 \[Jun. 2025\] Our work on [test-time adaptation for addressing concept shifts in medical image segmentation](https://arxiv.org/abs/2411.15513) has been accepted for ICCV 2025. Congrats to Jiayuan and all coauthors! \
