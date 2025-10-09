@@ -19,13 +19,17 @@ Visiting Students
 
 - Jiazhen Pan (Technical University of Munich)
 
-- Jason Cui (City University of Hong Kong, co-supervised with Prof. Alison Noble)
+MSc Students
+---
 
+- Aleksandr Gorbunov (Technical University of Munich, co-supervised with Jiazhen Pan and Prof. Daniel Rueckert)
 
 Alumni
 ---
 
 University of Oxford
+
+- Jason Cui (City University of Hong Kong, co-supervised with Prof. Alison Noble)
 
 - Owen Pullen (HDS CDT rotation project, now DPhil student at VGG Group) 
 
