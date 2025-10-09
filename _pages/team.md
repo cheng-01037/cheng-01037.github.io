@@ -45,7 +45,7 @@ Imperial College London
 
 - Kaijie Xu (Primary supervisor: Dr. Chen Qin, now PhD student at McGill)
 
-- Zikun Xu (CPrimary supervisor: Dr. Chen Qin)
+- Zikun Xu (Primary supervisor: Dr. Chen Qin)
 
 
 
