@@ -61,4 +61,5 @@ News
 Contact
 ------
 Address: Old Road Campus, Headington, Oxford, UK
-Contact: leoco_work@outl**k.com
+
+Contact: leoco_work@outl<the_widely_used_email_provider>k.com
