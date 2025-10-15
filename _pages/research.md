@@ -17,5 +17,5 @@ My research centres on machine learning and computer vision approaches for medic
 - Applications of the above learning approaches in addressing clinical and medical research challenges
 
 
-Please find my [Google scholar profile](https://scholar.google.com/citations?user=Ss_HBpcAAAAJ&hl=en) for a full list of past publications.
+Please find my [Google Scholar profile](https://scholar.google.com/citations?user=Ss_HBpcAAAAJ&hl=en) for a full list of past publications.
 
