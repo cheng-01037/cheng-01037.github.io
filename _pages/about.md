@@ -8,26 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on data-efficient, robust, and user-friendly machine learning approaches for medical image/signal computing. Prior to joining Oxford, I worked as a postdoctoral researcher on machine learning for cardiovascular science at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/).
+I am a Lecturer (Assistant Professor) in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on machine learning approaches for medical image analysis. Prior to joining Oxford, I worked as a postdoctoral researcher on cardiac imaging at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/), focused on machine learning for cardiac MRI.
 
 
 Research Interest
 ------
-**Keywords:** Medical image computing, Machine learning, Robustness, Uncertainty, Human-machine collaboration, Medical ultrasound, MRI
+**Keywords:** Medical image analysis, Robustness, Uncertainty, Human-machine collaboration, Medical ultrasound, Cardiac MRI
 
-My research centres on machine learning and computer vision approaches for medical data interpretation and analysis. Topics of our research include but are not limited to the following: 
+My research centres on medical image interpretation and analysis. Topics of our research include but are not limited to the following: 
 
-- Multimodal machine learning for healthcare data (e.g., image, signal, and language)
-- Machine learning for clinical skill understanding and enhancement
-- Trustworthiness assessment and enhancement for medical machine learning models
-- Applications of the above learning approaches in addressing clinical and medical research challenges
+- Multimodal learning for medical image, signal, language, and more
+- Data-efficient, trustworthy, and/or privacy-preserving machine learning for medical imaging
+- Human-machine collaboration and human factor/skill analysis in medical imaging
+- Applications of the above approaches in addressing clinical and research challenges (e.g., for cardiac imaging)
 
 We are also part of the [Oxford Biomedical Image Analysis Cluster (BioMedIA)](https://eng.ox.ac.uk/biomedical-image-analysis/).
 
-
 Opening
 ------
-We are looking for highly motivated students to work on machine learning for medical image/data computing. Please check the [Vacancies page](https://cheng-01037.github.io/vacancies/) for more details.
+We are looking for highly motivated students to work on machine learning for medical image analysis. Please check the [Vacancies page](https://cheng-01037.github.io/vacancies/) for more details.
 
 News
 ------
@@ -55,6 +54,5 @@ News
 
 Contact
 ------
-Email: \<my_firstname\> dot \<my_lastname\> at eng dot ox dot ac dot uk \
-Address: Old Road Campus, Roosevelt Dr, Headington, Oxford OX3 7DQ
-
+Address: Old Road Campus, Headington, Oxford, UK
+Contact: leoco_work@outl**k.com
