@@ -9,13 +9,23 @@ author_profile: true
 
 Organization Committee
 ------
-- MICCAI workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging ([UNSURE](https://unsuremiccai.github.io/)), 2024
-- MICCAI challenge on Cardiac MRI Reconstruction ([CMRxRecon](https://cmrxrecon.github.io/2024/Home.html)), 2024
+- MICCAI workshop on Human-AI Collaboration ([HAIC](https://haic-miccai.github.io/#/), lead organizer), 2025
+- MICCAI workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging ([UNSURE](https://unsuremiccai.github.io/)), 2024 - 2025
+- MICCAI challenge on Cardiac MRI Reconstruction ([CMRxRecon](https://cmrxrecon.github.io/2024/Home.html)), 2024 - 2025
 - MICCAI challenge on Extreme Cardiac MRI Analysis Challenge under Respiratory Motion ([CMRxMotion](http://cmr.miccai.cloud/)), 2022
 
 
-Jounal & Conference Reviewer
+Jounal & Conferences
 ------
+
+**Area Chair**
+
+- MICCAI 2025
+
+- ICLR 2025
+
+**Reviwer**
+
   - International Conference on Machine Learning (ICML)
 
   - International Conference on Learning Representations (ICLR)
