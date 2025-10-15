@@ -19,6 +19,3 @@ My research centres on machine learning and computer vision approaches for medic
 
 Please find my [Google scholar profile](https://scholar.google.com/citations?user=Ss_HBpcAAAAJ&hl=en) for a full list of past publications.
 
-<p align="center"> 
-  <img width="850" src="/images/wordcloud.png" />
-</p>
