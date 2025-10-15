@@ -30,6 +30,9 @@ We are looking for highly motivated students to work on machine learning for med
 
 News
 ------
+<div class="news-scroll" role="region" aria-label="Recent news">
+  {% capture news_md %}
+
 \[Sep. 2025\] Check out our new work on [automating federated learning for medical imaging with server-client agentic workflows](https://www.arxiv.org/abs/2509.23803) ! \
 \[Aug. 2025\] Our work on [knowledge-enhanced multi-modal learning](https://arxiv.org/abs/2502.17900) has been accepted for EMNLP. Congratulations to Che! \
 \[Jul. 2025\] Check out our new work on [multi-agent driven dynamic trustworthiness assessment for medical LLMs](https://arxiv.org/abs/2508.00923)! \
@@ -51,6 +54,9 @@ News
 \[Jun. 2023\] Our paper about [topology-aware medical image segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_7) was accepted for MICCAI 2023. Congrats to Liu.\
 \[Sep. 2022\] We won the [Fetal Tissue Annotation and Segmentation Challenge (FeTA)](https://feta.grand-challenge.org/Home/), MICCAI 2022.
 
+  {% endcapture %}
+  {{ news_md | markdownify }}
+</div>
 
 Contact
 ------
