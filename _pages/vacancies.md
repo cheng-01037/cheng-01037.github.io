@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-We are seeking highly self-motivated students to pursue a PhD in medical image/multimodal data computing at the Department of Engineering Science, University of Oxford. 
+We are seeking highly self-motivated students to pursue a PhD in medical image analysis at the Department of Engineering Science, University of Oxford. 
 
-*Please note that as the deadline to application gets closer, due to the amount of emails, I may not have the capacity to reply to everyone / to reply immediately. Sorry about the inconvenience.*
+*Please note that due to the high volume of inquiries as the deadline approaches, I may not be able to respond to all emails. A lack of reply is not a reflection of your qualifications or potential. Thank you for your understanding.*
 
 Candidates are expected to have a strong background in a relevant STEM discipline, and have experience, including a proven publication track-record, in one or more of the following areas: computer vision, machine learning and/or medical imaging.
 
@@ -21,15 +21,14 @@ You should also have:
 
 Potential PhD topics include but are not limited to the following: 
 
-- Multi-modal analysis for medical image, signal, language, and more
-- Building medical machine learning models and agentic workflows with heterogeneous supervisions
-- Machine learning for clinical skill understanding and enhancement
-- Novel human-in-the-loop medical imaging workflows
+- Multi-modal machine learning for medical image, signal, language, and more
+- Agentic workflows for medical image analysis
+- Machine learning for human factor/skill analysis in medical imaging
+- Human-in-the-loop learning and inference approaches for medical imaging 
 
-The students will join a multi-disciplinary research group of approximately 20 PhD students and postdoctoral researchers, led by two faculty members, focused on diverse topics in machine learning for medical imaging and human-AI collaborations. The students will collaborate with world-leading clinicians and scientists within Oxford, in the UK, Germany, and beyond. 
+The students will join a multi-disciplinary research group of approximately 20 PhD students and postdoctoral researchers, led by two faculty members, focused on diverse topics in machine learning / human-machine collaboration for medical imaging. The students will collaborate with world-leading clinicians and scientists. 
 
 Feel free to get in touch if you are interested!
-
 
 Related PhD Programs
 ------
