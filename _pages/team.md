@@ -17,7 +17,7 @@ Postdoctoral Researchers
 Visiting Researchers
 ---
 
-- Jiazhen Pan (Technical University of Munich)
+- Dr. Jiazhen Pan (Technical University of Munich)
 
 MSc/MEng Students
 ---
