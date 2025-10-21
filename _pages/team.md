@@ -14,7 +14,7 @@ Postdoctoral Researchers
 
 - Dr. Yuyuan Liu (Co-supervised with Prof. Alison Noble)
 
-Visiting Students
+Visiting Researchers
 ---
 
 - Jiazhen Pan (Technical University of Munich)
