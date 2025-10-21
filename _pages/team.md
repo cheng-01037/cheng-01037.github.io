@@ -19,10 +19,12 @@ Visiting Students
 
 - Jiazhen Pan (Technical University of Munich)
 
-MSc Students
+MSc/MEng Students
 ---
 
 - Aleksandr Gorbunov (Technical University of Munich, co-supervised with Jiazhen Pan and Prof. Daniel Rueckert)
+
+- Roman Leshchenko (University of Oxford)
 
 Alumni
 ---
