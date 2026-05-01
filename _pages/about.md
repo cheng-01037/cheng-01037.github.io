@@ -32,7 +32,9 @@ News
 ------
 <div class="news-scroll" role="region" aria-label="Recent news">
   {% capture news_md %}
-
+\[May 2026\] Will give a talk at [BMVA Symposium on Advancing Medical Care with AI Agents](https://www.bmva.org/meetings/26-05-27-MedicalAgents.html). \
+\[Apr. 2026\] We are excited to launch the [2nd MICCAI Workshop on Human-AI Collaboration (HAIC 2026)](https://haic-miccai.github.io/)!  \
+\[Jan. 2026\] Our work on [Task deferral between multiple models/exports](https://arxiv.org/abs/2502.10533) has been accepted for ICLR 2026. Congrats to Josh and all coauthors! \
 \[Sep. 2025\] Check out our new work on [automating federated learning for medical imaging with server-client agentic workflows](https://www.arxiv.org/abs/2509.23803) ! \
 \[Aug. 2025\] Our work on [knowledge-enhanced multi-modal learning](https://arxiv.org/abs/2502.17900) has been accepted for EMNLP. Congratulations to Che! \
 \[Jul. 2025\] Check out our new work on [multi-agent driven dynamic trustworthiness assessment for medical LLMs](https://arxiv.org/abs/2508.00923)! \
