@@ -4,6 +4,12 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
+- **Agentic AI for Healthcare: Collaborating with Humans, for Humans, and among Humans**\
+   at BMVA Symposium on Advancing Medical Care with AI Agents (2026)
+
+- **Climbing the Data Heterogeneity Ladder of Medical Imaging AI**\
+   at Technical University of Munich (2025)
+
 - **Towards Data-efficient Healthcare Machine Learning: Few-shot & Zero-shot Learnings, and Beyond**\
    at Institute of Biomedical Engineering, University of Oxford (2024)
   
