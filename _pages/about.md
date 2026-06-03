@@ -34,7 +34,7 @@ News
   {% capture news_md %}
 \[May 2026\] Our new work on [multi-agent driven dynamic trustworthiness assessment for medical LLMs](https://arxiv.org/abs/2508.00923) has been accepted for [Nature Health](https://www.nature.com/naturehealth/). Congrats to Jiazhen, Bailiang, and all coauthors! \
 \[May 2026\] Give a talk at [BMVA Symposium on Advancing Medical Care with AI Agents](https://www.bmva.org/meetings/26-05-27-MedicalAgents.html). \
-\[Apr. 2026\] We are excited to launch the [2nd MICCAI Workshop on Human-AI Collaboration (HAIC 2026)](https://haic-miccai.github.io/)!  \
+\[Apr. 2026\] We warmly invite you to join the following **MICCAI satellite events**: [2nd MICCAI Workshop on Human-AI Collaboration](https://haic-miccai.github.io/), [MICCAI Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging](https://unsuremiccai.github.io/) and [MICCAI Ultra-Fast 4D Flow MRI Reconstruction Challenge (CMRx4DFlow2026)]([https://cmrxrecon.github.io/2025/Home.html](https://cmrx.chihucloud.com/2026/)). \
 \[Jan. 2026\] Our work on [Task deferral between multiple models/exports](https://arxiv.org/abs/2502.10533) has been accepted for ICLR 2026. Congrats to Josh and all coauthors! \
 \[Sep. 2025\] Check out our new work on [automating federated learning for medical imaging with server-client agentic workflows](https://www.arxiv.org/abs/2509.23803) ! \
 \[Aug. 2025\] Our work on [knowledge-enhanced multi-modal learning](https://arxiv.org/abs/2502.17900) has been accepted for EMNLP. Congratulations to Che! \
