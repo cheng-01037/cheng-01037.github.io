@@ -7,33 +7,45 @@ author_profile: true
 
 {% include base_path %}
 
-I have been fortunate to work with a group of amazing students and postdoctoral researchers:
+At Oxford, I lead a focused team on **Collaborative Medical AI**, as part of the broader Noble Group at IBME. I have been fortunate to work with a group of amazing students and postdoctoral researchers.
 
-Postdoctoral Researchers
+
+DPhil Students
 ---
 
-- Dr. Yuyuan Liu (Co-supervised with Prof. Alison Noble)
+- Yixuan Liu (Co-supervised with Prof. Alison Noble)
 
-Visiting Researchers
----
+- Yuntian Bo (Co-supervised with Prof. Alison Noble)
 
-- Dr. Jiazhen Pan (Technical University of Munich)
+- Alek Yegazarian (Co-supervised with Prof. Alison Noble)
+
+- Yingqi Hao (Co-supervised with Prof. Alison Noble)
+
 
 MSc/MEng Students
 ---
 
-- Aleksandr Gorbunov (Technical University of Munich, co-supervised with Jiazhen Pan and Prof. Daniel Rueckert)
+- Calum Sarch Thomas
 
-- Roman Leshchenko (University of Oxford)
+- Yiming Song
+
 
 Alumni
 ---
 
 University of Oxford
 
+- Dr. Jiazhen Pan (Visiting researcher, Technical University of Munich, now Research Fellow at Stanford University)
+
+- Dr. Yuyuan Liu (Co-supervised with Prof. Alison Noble, now Research Scientist at Alibaba)
+
 - Jason Cui (City University of Hong Kong, co-supervised with Prof. Alison Noble)
 
-- Owen Pullen (HDS CDT rotation project, now DPhil student at VGG Group) 
+- Owen Pullen (HDS CDT rotation project, now DPhil student at VGG Group)
+
+- Aleksandr Gorbunov (Technical University of Munich, co-supervised with Dr. Jiazhen Pan and Prof. Daniel Rueckert)
+
+- Roman Leshchenko (University of Oxford)
 
 Imperial College London
 
