@@ -33,7 +33,7 @@ Feel free to get in touch if you are interested!
 Related PhD Programs
 ------
 
-- [DPhil in Engineering Science Program](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) (**Deadline 12:00 midday UK time on Tuesday 2 December 2025 for most Oxford scholarships**)
+- [DPhil in Engineering Science Program](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) (**Deadline 12:00 midday UK time on Wednesday 2 December 2026 for most Oxford scholarships**)
 
 We also accept students from the following CDT programs:
 
