@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on machine learning approaches for medical image analysis. Prior to joining Oxford, I worked as a postdoctoral researcher on cardiac imaging at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/), focused on machine learning for cardiac MRI.
+I am a Lecturer (Assistant Professor) in Healthcare Imaging at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/). My research centres on machine learning approaches for medical image analysis and human-machine collaboration in healthcare. Prior to joining Oxford, I worked as a postdoctoral researcher on cardiac imaging at the [Institute of Clinical Sciences, Imperial College London](https://www.imperial.ac.uk/institute-clinical-sciences/). Before that, I obtained my PhD in Computing Research from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing/), focused on machine learning for cardiac MRI.
 
 
 Research Interest
 ------
-**Keywords:** Medical image analysis, Robustness, Uncertainty, Human-machine collaboration, Medical ultrasound, Cardiac MRI
+**Keywords:** Medical image analysis, Human-machine collaboration, Medical ultrasound, Cardiac MRI
 
 My research centres on medical image interpretation and analysis. Topics of our research include but are not limited to the following: 
 
 - Multimodal learning for medical image, signal, language, and more
-- Data-efficient, trustworthy, and/or privacy-preserving machine learning for medical imaging
 - Human-machine collaboration and human factor/skill analysis in medical imaging
 - Applications of the above approaches in addressing clinical and research challenges (e.g., for cardiac imaging)
 
