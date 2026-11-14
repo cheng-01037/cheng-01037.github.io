@@ -35,11 +35,13 @@ Related PhD Programs
 
 - [DPhil in Engineering Science Program](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) (**Deadline 12:00 midday UK time on Wednesday 2 December 2026 for most Oxford scholarships**)
 
-We also accept students from the following CDT programs:
+We also accept students from the following CDT/DTP programs:
 
 - [EPSRC HDS Centre for Doctoral Training Program](https://www.bdi.ox.ac.uk/study/cdt)
 
 - [EPSRC AIMS Centre for Doctoral Training Program](https://aims.robots.ox.ac.uk/)
+
+- [DPhil in Cardiovascular Science (Technology, AI and Data)](https://www.ox.ac.uk/admissions/graduate/courses/dphil-cardiovascular-science-technology-ai-and-data)
 
 Scholarships
 ------
